@@ -37,8 +37,6 @@ def gerarInstancias(contas, senhas): # gerarInstancias(listaContendoContas, list
             print(f"Instancia de '{contas[f'conta{x}']}' logada e pronta para uso.")
         except Exception as e:
             print(f"Erro durante a inicializacao de '{contas[f'conta{x}']}'", e)
-            if telegram == True:
-                telegramBotSendtext(f"Funcao gerarInstancias()\nErro durante a inicializacao de '{contas[f'conta{x}']}'\n{e}")
             break
         print()
 
