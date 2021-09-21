@@ -11,7 +11,7 @@ Qualquer um pode utilizar este código para **uso pessoal**. A comercialização
 ### Explicação
 Fiz um vídeo no youtube explicando como configurar e utilizar o script.<br>
 Qualquer dúvida ou erro, por gentileza deixe nos comentários do vídeo. <br>
-[Clique aqui para ir até o vídeo](link)<br>
+[Clique aqui para ir até o vídeo](https://youtu.be/cOKNAGJNjlc)<br>
 
 ### Podem ocorrer mudanças
 O script utiliza **web scraping**, logo, pode ser que com alguma atualização do Instagram ele deixe de funcionar.<br>
@@ -40,7 +40,7 @@ Fiz um vídeo no youtube explicando como configurar e utilizar o script.<br>
 Qualquer dúvida ou erro, por gentileza deixe nos comentários do vídeo. <br>
 I made an youtube video explaining how to use it.<br>
 Any error or doubt please let me know in the comments.<br>
-[Click here to go to the video](link)<br>
+[Click here to go to the video](https://youtu.be/cOKNAGJNjlc)<br>
 
 ### Changes may occur
 Both scripts use  **web scraping**, so any Instagram update may block it. <br>
